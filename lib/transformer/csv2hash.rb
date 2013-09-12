@@ -27,8 +27,7 @@ module Transformer
       end
       
       data = ::Hash[array]
-      
-      puts data
+     
       puts "csv to hash finish!!"
       data
     end
