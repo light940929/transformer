@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+require "transformer"
+
+Transformer::Happy.csv
+
+Transformer::Happy.hash
+
+
 
 ## Contributing
 
