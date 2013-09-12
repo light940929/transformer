@@ -1,4 +1,4 @@
-#require "transformer/version"
+require "transformer/version"
 require "csv"
 require "transformer/csv2hash.rb"
 require "transformer/hash2csv.rb"
