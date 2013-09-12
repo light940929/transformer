@@ -1,12 +1,14 @@
-require "transformer/version"
-require "csv"
-require "transformer/csv2hash.rb"
-require "transformer/hash2csv.rb"
+#require "transformer/version"
+require 'csv'
+require 'transformer/csv2hash'
+require 'transformer/hash2csv'
+
+
+
 module Transformer
   
-  class Do
+  class Happy
   
-      
      def self.test
        puts "====================="
        puts "Are you ready?"
